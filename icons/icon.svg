@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64">
+  <!-- Source for the favicon set. Regenerate with scripts/generate-icons.sh -->
+  <rect x="2" y="2" width="60" height="60" rx="8" fill="#a8341f"/>
+  <rect x="2" y="2" width="60" height="60" rx="8" fill="none" stroke="#872716" stroke-width="2"/>
+  <rect x="8" y="8" width="48" height="48" rx="4" fill="none" stroke="#f4e8d2" stroke-width="2" opacity="0.92"/>
+  <text x="32" y="45.5" text-anchor="middle" font-size="36"
+        font-family="Noto Serif CJK SC, Noto Sans CJK SC, Source Han Serif SC, serif"
+        fill="#f7efdc">生</text>
+</svg>
