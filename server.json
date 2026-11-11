@@ -1,0 +1,41 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.12chinesezodiacsigns/12-chinese-zodiac-signs",
+  "title": "12 Chinese Zodiac Signs",
+  "description": "Chinese zodiac animal and element by birth date, sign guides, years, matches and daily readings.",
+  "version": "1.0.3",
+  "websiteUrl": "https://12chinesezodiacsigns.com",
+  "repository": {
+    "url": "https://github.com/pyxlino/12chinesezodiacsigns-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://12chinesezodiacsigns.com/mcp/icons/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://12chinesezodiacsigns.com/mcp/icons/icon-256.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "256x256"
+      ]
+    },
+    {
+      "src": "https://12chinesezodiacsigns.com/mcp/icons/icon-128.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "128x128"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://12chinesezodiacsigns.com/api/mcp"
+    }
+  ]
+}
